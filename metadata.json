@@ -1,0 +1,5 @@
+{
+  "name": "EvoUniverse",
+  "description": "A multi-agent RL system with Maze, Flappy, and Runner worlds, evolved by Gemini.",
+  "requestFramePermissions": []
+}
